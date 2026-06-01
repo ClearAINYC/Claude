@@ -1,9 +1,9 @@
-# Python
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-*.egg-info/
+# The agent itself is downloaded on first run — don't commit it.
+bytebot/
 
 # Secrets / local config
 .env
+docker/.env
+
+# OS / editor noise
+.DS_Store
