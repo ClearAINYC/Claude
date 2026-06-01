@@ -1,0 +1,10 @@
+# Core
+anthropic>=0.69.0
+
+# Computer control (screen, mouse, keyboard) — cross-platform
+pyautogui>=0.9.54
+Pillow>=10.0.0
+pyperclip>=1.8.2
+
+# Optional: nicer colored terminal output
+rich>=13.7.0
